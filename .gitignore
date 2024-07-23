@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Meow/cmake-build-debug
+/Meow/.idea
+/Meow/cmake-build-debug
