@@ -7,7 +7,7 @@
  */
 int main(void) {
     char name[50];
-    printf("what's your name? ");
+    printf("What's your name? ");
     scanf("%s", name);
     printf("Hello, %s\n", name);
     return 0;
