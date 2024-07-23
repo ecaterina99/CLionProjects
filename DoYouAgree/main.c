@@ -13,9 +13,9 @@ int main(void) {
     printf("Do you agree? \n");
     scanf(" %c", &q);
     if (q == 'Y' || q == 'y') {
-        printf("agreed \n");
+        printf("Agreed \n");
     } else if (q == 'N' || q == 'n') {
-        printf("not agreed \n");
+        printf("Not agreed \n");
     } else {
         printf("error \n");
     }
