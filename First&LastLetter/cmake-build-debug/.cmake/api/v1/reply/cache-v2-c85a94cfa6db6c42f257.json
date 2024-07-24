@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Admin/Desktop/Learning/CLionProjects/MatchingMatrixNumbers/cmake-build-debug"
+			"value" : "c:/Users/Admin/Desktop/Learning/CLionProjects/First&LastLetter/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/MatchingMatrixNumbers/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/First&LastLetter/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/MatchingMatrixNumbers"
+			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/First&LastLetter"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/MatchingMatrixNumbers"
+			"value" : "C:/Program Files (x86)/First_LastLetter"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "MatchingMatrixNumbers"
+			"value" : "First_LastLetter"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1126,7 +1126,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "MatchingMatrixNumbers_BINARY_DIR",
+			"name" : "First_LastLetter_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1135,10 +1135,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/MatchingMatrixNumbers/cmake-build-debug"
+			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/First&LastLetter/cmake-build-debug"
 		},
 		{
-			"name" : "MatchingMatrixNumbers_IS_TOP_LEVEL",
+			"name" : "First_LastLetter_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1150,7 +1150,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "MatchingMatrixNumbers_SOURCE_DIR",
+			"name" : "First_LastLetter_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/MatchingMatrixNumbers"
+			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/First&LastLetter"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
