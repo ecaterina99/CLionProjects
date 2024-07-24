@@ -1,0 +1,13 @@
+# ninja log v6
+3	66	7435201662012701	CMakeFiles/FindOddPositions.dir/main.c.obj	b85d22811c8c0fa
+68	173	7435201662661480	FindOddPositions.exe	e0bb4072fafa3519
+4	72	7435203170022857	CMakeFiles/FindOddPositions.dir/main.c.obj	b85d22811c8c0fa
+72	147	7435203170701435	FindOddPositions.exe	e0bb4072fafa3519
+5	70	7435203760160095	CMakeFiles/FindOddPositions.dir/main.c.obj	b85d22811c8c0fa
+71	148	7435203760823164	FindOddPositions.exe	e0bb4072fafa3519
+4	66	7435204365778321	CMakeFiles/FindOddPositions.dir/main.c.obj	b85d22811c8c0fa
+67	143	7435204366401178	FindOddPositions.exe	e0bb4072fafa3519
+5	67	7435204714151100	CMakeFiles/FindOddPositions.dir/main.c.obj	b85d22811c8c0fa
+68	142	7435204714780374	FindOddPositions.exe	e0bb4072fafa3519
+5	68	7435204934156199	CMakeFiles/FindOddPositions.dir/main.c.obj	b85d22811c8c0fa
+69	143	7435204934796565	FindOddPositions.exe	e0bb4072fafa3519

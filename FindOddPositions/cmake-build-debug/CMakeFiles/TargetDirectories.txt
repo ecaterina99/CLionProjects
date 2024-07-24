@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Learning/CLionProjects/FindOddPositions/cmake-build-debug/CMakeFiles/FindOddPositions.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/FindOddPositions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/FindOddPositions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
