@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#/cmake-build-debug"
+			"value" : "c:/Users/Admin/Desktop/Learning/CLionProjects/calculator/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/calculator/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#"
+			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/calculator"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Piramid_"
+			"value" : "C:/Program Files (x86)/Calculator"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -731,7 +731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Piramid_"
+			"value" : "Calculator"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1126,7 +1126,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Piramid__BINARY_DIR",
+			"name" : "Calculator_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1135,10 +1135,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#/cmake-build-debug"
+			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/calculator/cmake-build-debug"
 		},
 		{
-			"name" : "Piramid__IS_TOP_LEVEL",
+			"name" : "Calculator_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1150,7 +1150,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Piramid__SOURCE_DIR",
+			"name" : "Calculator_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#"
+			"value" : "C:/Users/Admin/Desktop/Learning/CLionProjects/calculator"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

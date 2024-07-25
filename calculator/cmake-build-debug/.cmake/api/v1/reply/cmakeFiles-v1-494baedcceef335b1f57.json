@@ -449,8 +449,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#/cmake-build-debug",
-		"source" : "C:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#"
+		"build" : "C:/Users/Admin/Desktop/Learning/CLionProjects/calculator/cmake-build-debug",
+		"source" : "C:/Users/Admin/Desktop/Learning/CLionProjects/calculator"
 	},
 	"version" : 
 	{

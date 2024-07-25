@@ -1,3 +1,0 @@
-C:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#/cmake-build-debug/CMakeFiles/Piramid_.dir
-C:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Admin/Desktop/Learning/CLionProjects/Piramid#/cmake-build-debug/CMakeFiles/rebuild_cache.dir

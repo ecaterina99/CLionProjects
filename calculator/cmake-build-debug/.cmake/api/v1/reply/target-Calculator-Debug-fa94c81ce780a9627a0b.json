@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Piramid_.exe"
+			"path" : "Calculator.exe"
 		},
 		{
-			"path" : "Piramid_.pdb"
+			"path" : "Calculator.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Piramid_::@6890427a1f51a3e7e1df",
+	"id" : "Calculator::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,8 +76,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Piramid_",
-	"nameOnDisk" : "Piramid_.exe",
+	"name" : "Calculator",
+	"nameOnDisk" : "Calculator.exe",
 	"paths" : 
 	{
 		"build" : ".",
