@@ -3,7 +3,7 @@
 /**
  * Ask the user to enter a matrix
  * Display only the odd numbers in the matrix.
- * Display the sum of the odd numbers.
+ * Display the sum o the odd numbers.
  * Display the diagonal numbers of the matrix.
  * Display the largest number from the numbers upper than diagonal.
  * @return
