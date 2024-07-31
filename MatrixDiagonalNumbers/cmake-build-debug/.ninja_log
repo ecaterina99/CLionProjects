@@ -1,0 +1,25 @@
+# ninja log v6
+6	148	7441440789318428	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+150	291	7441440790758526	MatrixDiagonalNumbers.exe	3e1e898711358940
+14	204	7441444935760559	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+206	422	7441444937676312	MatrixDiagonalNumbers.exe	3e1e898711358940
+5	72	7441446031568338	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+73	152	7441446032241364	MatrixDiagonalNumbers.exe	3e1e898711358940
+5	72	7441448990274364	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+73	150	7441448990947393	MatrixDiagonalNumbers.exe	3e1e898711358940
+5	70	7441452412230360	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+70	149	7441452412882687	MatrixDiagonalNumbers.exe	3e1e898711358940
+5	73	7441454816871725	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+73	153	7441454817553087	MatrixDiagonalNumbers.exe	3e1e898711358940
+11	151	7441463417214557	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+152	306	7441463418630273	MatrixDiagonalNumbers.exe	3e1e898711358940
+33	160	7441463609289143	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+161	321	7441463610571887	MatrixDiagonalNumbers.exe	3e1e898711358940
+38	177	7441464423133694	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+178	340	7441464424533294	MatrixDiagonalNumbers.exe	3e1e898711358940
+10	150	7441476082346058	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+151	310	7441476083767177	MatrixDiagonalNumbers.exe	3e1e898711358940
+35	170	7441480223647786	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+11	157	7441480762326043	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+5	74	7441482858740260	CMakeFiles/MatrixDiagonalNumbers.dir/main.c.obj	7073b3c6349ff4ce
+74	155	7441482859439286	MatrixDiagonalNumbers.exe	3e1e898711358940

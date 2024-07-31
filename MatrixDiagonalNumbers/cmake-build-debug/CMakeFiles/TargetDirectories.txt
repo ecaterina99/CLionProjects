@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Learning/CLionProjects/MatrixDiagonalNumbers/cmake-build-debug/CMakeFiles/MatrixDiagonalNumbers.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/MatrixDiagonalNumbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/MatrixDiagonalNumbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
