@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * Ask the user to enter the size of the first matrix.
+ * Display the first matrix
+ * Ask the user to enter the size of the second matrix, its height and width must be equal to the first matrix.
+ * Display the second matrix.
+ * Calculate and display the sum of the two matrices.
+ * Calculate and display the product of the two matrices.
+ */
 void displayMatrix(int h, int l, int m[h][l]);
 
 void displaySumOfTwoMatrices(int h, int l, int m[h][l], int m2[h][l]);
@@ -115,3 +123,5 @@ void displayProductOfTwoMatrices(int h, int l, int m[h][l], int m2[h][l]) {
         printf("\n");
     }
 }
+
+

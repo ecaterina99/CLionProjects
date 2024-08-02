@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Learning/CLionProjects/MatrixWithoutPenultimateLine/cmake-build-debug/CMakeFiles/MatrixWithoutPenultimateLine.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/MatrixWithoutPenultimateLine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/MatrixWithoutPenultimateLine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

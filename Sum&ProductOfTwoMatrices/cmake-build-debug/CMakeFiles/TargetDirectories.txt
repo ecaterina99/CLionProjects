@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Learning/CLionProjects/Sum&ProductOfTwoMatrices/cmake-build-debug/CMakeFiles/Sum_ProductOfTwoMatrices.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/Sum&ProductOfTwoMatrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/Sum&ProductOfTwoMatrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
