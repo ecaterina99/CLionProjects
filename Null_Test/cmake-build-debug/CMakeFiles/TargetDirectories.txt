@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Learning/CLionProjects/Null_Test/cmake-build-debug/CMakeFiles/Null_Test.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/Null_Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/Null_Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

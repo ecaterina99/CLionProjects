@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Learning/CLionProjects/Pointer_Arithmetics_test/cmake-build-debug/CMakeFiles/Pointer_Arithmetics_test.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/Pointer_Arithmetics_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/Pointer_Arithmetics_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
