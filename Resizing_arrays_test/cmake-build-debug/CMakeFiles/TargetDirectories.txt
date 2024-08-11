@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/Learning/CLionProjects/Resizing_arrays_test/cmake-build-debug/CMakeFiles/Resizing_arrays_test.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/Resizing_arrays_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Learning/CLionProjects/Resizing_arrays_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
