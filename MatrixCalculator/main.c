@@ -83,17 +83,13 @@ int main(void) {
         printf("%d ", highDiagonal[z]);
     }
     printf("\n");
-    printf("The bigger number is: ");
 
-    int max = 0;
-    for (int i = 0; i < cnt; i++) {
-        for (int i = 0; i < h; i++) {
-            for (int j = 0; j < l; j++) {
-                if (highDiagonal[i] > highDiagonal[j]) {
-                    max = highDiagonal[i];
-                }
-            }
+    int max = highDiagonal[0];
+
+    for (int i = 1; i < cnt; i++) {
+        if (highDiagonal[i] > max) {
+            max = highDiagonal[i];
         }
     }
-    printf("%d", max);
+    printf("The bigger number is: %d\n", max);
 }
