@@ -1,5 +1,12 @@
-#include<stdio.h>
+#include <stdio.h>
 
+/**
+ * Ask the user to enter the size of the matrix.
+ * Display the matrix.
+ * Display the number of odd numbers in the matrix.
+ * Display the number of even numbers in the matrix.
+ * Display the number of zeros numbers in the matrix.
+ */
 void displayMatrix(int h, int l, int m[h][l]);
 
 void displayMatrixProperties(int h, int l, int m[h][l]);
