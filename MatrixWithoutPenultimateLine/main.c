@@ -54,7 +54,7 @@ void displayMatrixWihoutPenultimateRowColumn(int h, int l, int m[h][l]) {
                     printf("%d ", m[i][j]);
                 }
             }
-            printf("\n");
         }
+        printf("\n");
     }
 }
