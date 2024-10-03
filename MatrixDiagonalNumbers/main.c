@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * Ask the user to enter the size of the first matrix.
+ * Display the matrix.
+ * Display the sum of numbers under diagonal.
+ * Display the sum of numbers below diagonal.
+ */
 void displayMatrix(int h, int l, int m[h][l]);
 
 void displaySumOfNumbersUnderDiagonal(int h, int l, int m[h][l]);
@@ -35,49 +41,47 @@ int main() {
     displaySumOfNumbersBelowDiagonal(h, l, m);
 }
 
-    void displayMatrix(int h, int l, int m[h][l]) {
-        for (int i = 0; i < h; i++) {
-            for (int j = 0; j < l; j++) {
+void displayMatrix(int h, int l, int m[h][l]) {
+    for (int i = 0; i < h; i++) {
+        for (int j = 0; j < l; j++) {
+            printf("%d ", m[i][j]);
+        }
+        printf("\n");
+    }
+}
+
+void displaySumOfNumbersUnderDiagonal(int h, int l, int m[h][l]) {
+    //Numbers under the diagonal of matrix:
+    int sumNumbersUnderDiagonal = 0;
+    printf("Numbers under the diagonal: ");
+    for (int i = 0; i < h; i++) {
+        for (int j = 0; j < l; j++) {
+            if (i < j) {
+                sumNumbersUnderDiagonal += m[i][j];
                 printf("%d ", m[i][j]);
             }
-            printf("\n");
         }
     }
+    printf("\n");
+    printf("the sum of numbers under the diagonal: ");
+    printf("%d ", sumNumbersUnderDiagonal);
+    printf("\n");
+}
 
-
-    void displaySumOfNumbersUnderDiagonal(int h, int l, int m[h][l]) {
-        //Numbers under the diagonal of matrix:
-        int sumNumbersUnderDiagonal = 0;
-        printf("Numbers under the diagonal: ");
-        for (int i = 0; i < h; i++) {
-            for (int j = 0; j < l; j++) {
-                if (i < j) {
-                    sumNumbersUnderDiagonal += m[i][j];
-                    printf("%d ", m[i][j]);
-                }
+void displaySumOfNumbersBelowDiagonal(int h, int l, int m[h][l]) {
+    //Numbers below the diagonal of matrix:
+    int sumOfNumbersBelowDiagonal = 0;
+    printf("Numbers below the diagonal: ");
+    for (int i = 0; i < h; i++) {
+        for (int j = 0; j < l; j++) {
+            if (i > j) {
+                sumOfNumbersBelowDiagonal += m[i][j];
+                printf("%d ", m[i][j]);
             }
         }
-        printf("\n");
-        printf("the sum of numbers under the diagonal: ");
-        printf("%d ", sumNumbersUnderDiagonal);
-        printf("\n");
     }
-
-    void displaySumOfNumbersBelowDiagonal(int h, int l, int m[h][l]) {
-        //Numbers below the diagonal of matrix:
-        int sumOfNumbersBelowDiagonal = 0;
-        printf("Numbers below the diagonal: ");
-        for (int i = 0; i < h; i++) {
-            for (int j = 0; j < l; j++) {
-                if (i > j) {
-                    sumOfNumbersBelowDiagonal += m[i][j];
-                    printf("%d ", m[i][j]);
-                }
-            }
-        }
-        printf("\n");
-        printf("the sum of numbers below the diagonal: ");
-        printf("%d ", sumOfNumbersBelowDiagonal);
-        printf("\n");
-    }
-
+    printf("\n");
+    printf("the sum of numbers below the diagonal: ");
+    printf("%d ", sumOfNumbersBelowDiagonal);
+    printf("\n");
+}
