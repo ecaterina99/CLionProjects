@@ -1,5 +1,16 @@
 #include <stdio.h>
 
+/**
+*Ask the user to input the matrix size.
+*Display the matrix.
+*Display the sum of all the elements in the matrix.
+*Display the sum of the primary diagonal elements of the matrix.
+*Display the product of the secondary diagonal elements of the matrix.
+*Display the sum of the elements in each row of the matrix.
+*Display the sum of the elements in each column of the matrix.
+*Display the transpose of the matrix.
+ * @return
+ */
 int main(void) {
     int h;
     int l;
@@ -28,17 +39,18 @@ int main(void) {
         printf("\n");
     }
 
-    // The sum of the numbers
+    // The sum of all the elements in the matrix.
     int sum = 0;
     for (int i = 0; i < h; i++) {
         for (int j = 0; j < l; j++) {
             sum = sum + m[i][j];
         }
     }
-    printf("The sum of the numbers is: %d ", sum);
+    printf("The sum of all the elements in the matrix: %d ", sum);
     printf("\n");
 
-    // The sum of the diagonal numbers of the matrix
+    // The the sum of the primary diagonal elements of the matrix.
+
     int cnt = 0;
     int n = 50;
     int diagonal[n];
@@ -52,16 +64,16 @@ int main(void) {
         }
     }
     int sumDiagonalNumbers = 0;
-    printf("Diagonal numbers: \n");
+    printf("The primary diagonal elements of the matrix: \n");
     for (int z = 0; z < cnt; z++) {
         printf("%d ", diagonal[z]);
         sumDiagonalNumbers = sumDiagonalNumbers + diagonal[z];
     }
     printf("\n");
-    printf("The sum of diagonal numbers is: %d ", sumDiagonalNumbers);
+    printf("The sum of the primary diagonal elements of the matrix: %d ", sumDiagonalNumbers);
     printf("\n");
 
-    // The product of the secondary diagonal numbers of the matrix
+    // The product of the secondary diagonal elements of the matrix.
 
     cnt = 0;
     int q = 50;
@@ -72,7 +84,7 @@ int main(void) {
         cnt++;
     }
 
-    printf("Secondary Diagonal numers: \n");
+    printf("The secondary diagonal elements of the matrix. \n");
     for (int i = 0; i < cnt; i++) {
         printf("%d ", SecondaryDiagonal[i]);
     }
@@ -82,9 +94,9 @@ int main(void) {
     for (int i = 1; i < cnt; i++) {
         product = product * m[i][l - 1 - i];
     }
-    printf("The product of diagonal numbers is: %d ", product);
+    printf("The product of the secondary diagonal elements of the matrix: %d ", product);
 
-    // The sum of the each row numbers of the matrix
+    //The sum of the elements in each row of the matrix.
 
     int sumRowNumbersArray[h];
 
@@ -96,13 +108,12 @@ int main(void) {
         }
         printf("\n");
     }
-    printf("The sum of the row numbers of the matrix: \n");
+    printf("The sum of the elements in each row of the matrix: \n");
     for (int i = 0; i < h; i++) {
         printf("%d \n", sumRowNumbersArray[i]);
     }
 
-    // The sum of the each column numbers of the matrix
-
+    // The sum of the elements in each column of the matrix
     int sumColumnNumbersArray[l];
     for (int j = 0; j < l; j++) {
         int columnSum = 0;
@@ -111,7 +122,7 @@ int main(void) {
             sumColumnNumbersArray[j] = columnSum;
         }
     }
-    printf("The sum of the each column numbers of the matrix: \n");
+    printf("The sum of the elements in each column of the matrix \n");
     for (int i = 0; i < h; i++) {
         printf("%d \n", sumColumnNumbersArray[i]);
     }
